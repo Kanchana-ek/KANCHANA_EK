@@ -1,6 +1,6 @@
                                 👋 Hi, I'm Kanchana E.K
 
-                  💻 Frontend Developer | 🌱 Learning Web Development 
+                              💻 Learning Web Development 
 
 
 ### 🛠 Skills
